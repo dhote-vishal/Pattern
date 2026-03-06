@@ -31,7 +31,8 @@ int main() {
     Solution mySolution;
 
     // Define the size of the pattern
-    int n = 5;
+    int n ;
+    cin >> n;
 
     cout << "Inverted Pyramid Pattern for n = " << n << ":\n" << endl;
 
