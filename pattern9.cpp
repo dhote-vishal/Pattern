@@ -59,7 +59,8 @@ int main() {
     Solution mySolution;
 
     // 2. Set the size of the pattern
-    int n = 5; 
+    int n ; 
+    cin >> n;
     cout << "Printing Pattern for n = " << n << ":\n" << endl;
 
     // 3. Call the public method
